@@ -1,0 +1,1 @@
+print("Grant me thee welcomed passage peasant.")
